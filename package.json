@@ -1,0 +1,20 @@
+{
+  "name": "curso-node-novembro-2025",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroT-web/curso-node-novembro-2025.git"
+  },
+  "author": "Pedro Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroT-web/curso-node-novembro-2025/issues"
+  },
+  "homepage": "https://github.com/pedroT-web/curso-node-novembro-2025#readme"
+}
